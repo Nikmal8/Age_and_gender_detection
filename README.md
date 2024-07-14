@@ -1,11 +1,11 @@
 # Age and Gender Detection
 Welcome to my Project! This project showcases my skills, projects, and experiences as a Data Scientist.
 
-### Demo: https://github.com/Nikmal8/Age_and_gender_detection/issues/1#issue-2407446021
+### Demo: "https://github.com/Nikmal8/Age_and_gender_detection/issues/1#issue-2407446021"
 ## Some Images:
-<img width="450px;" src="(https://github.com/user-attachments/assets/39b4f287-4c56-4919-9f23-d3379bd21c18)"/>
-<img width="450px;" src="(https://github.com/user-attachments/assets/61be8f33-aef3-4bb1-bafb-42bc71c9e113)"/>
-<img width="450px;" src="(https://github.com/user-attachments/assets/d297917a-cd18-40ce-8bd6-e897457d20d2)"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/39b4f287-4c56-4919-9f23-d3379bd21c18"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/61be8f33-aef3-4bb1-bafb-42bc71c9e113"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/d297917a-cd18-40ce-8bd6-e897457d20d2"/>
 
 
 ## Table of Contents
