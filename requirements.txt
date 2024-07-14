@@ -1,5 +1,5 @@
-opencv_contrib_python==4.9.0.80
-opencv_python==4.9.0.80
-opencv-python-headless
+opencv-contrib_python==4.9.0.80
+opencv-python==4.9.0.80
+opencv-python-headless==4.5.5.64
 streamlit==1.33.0
-streamlit_webrtc==0.47.7
+streamlit-webrtc==0.47.7
