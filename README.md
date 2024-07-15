@@ -41,7 +41,7 @@ https://github.com/Nikmal8/Age_and_gender_detection.git
 ```
 2. Navigate to the project directory: 
 ```bash
-`cd Age_and_gender_detection
+cd Age_and_gender_detection
 ```
 3. Install the dependencies: 
 ```bash
@@ -59,7 +59,7 @@ http://localhost:3000
 ## Usage
 - Run the main script:
 ```bash
-python main.py
+python app.py
 ```
 
 - Provide an image or video stream for age and gender prediction.
